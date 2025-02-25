@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **front-end programmes**
 
-- 💬 Ask me about **html, css, tailwind,**
+- 💬 Ask me about **html, Css, Bootstrap,**
 
 - 📫 How to reach me **imocallid@gmail.com**
 
